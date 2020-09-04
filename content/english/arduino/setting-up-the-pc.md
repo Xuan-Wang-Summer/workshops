@@ -1,7 +1,6 @@
 ---
 title: "Setting up the PC"
 draft: false
-hidden: true
 weight: 3
 ---
 

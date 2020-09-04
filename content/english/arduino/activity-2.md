@@ -1,7 +1,6 @@
 ---
 title: "Arduino - Activity 2"
 draft: false
-hidden: true
 weight: 5
 ---
 

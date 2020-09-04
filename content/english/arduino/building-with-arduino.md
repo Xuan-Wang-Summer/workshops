@@ -2,7 +2,6 @@
 title: "Introduction - Building with Arduino"
 description: ""
 draft: false
-hidden: true
 weight: 1
 ---
 

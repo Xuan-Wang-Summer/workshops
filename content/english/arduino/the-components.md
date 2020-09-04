@@ -1,7 +1,6 @@
 ---
 title: "The Components"
 draft: false
-hidden: true
 weight: 2
 ---
 
